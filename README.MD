@@ -1,30 +1,30 @@
-## Jerarquizciones
-# Encabezado H1
-## Encabezado H2
-### Encabezado H3
+## Hierarchy
+# Header H1
+## Header H2
+### Header H3
 #### Text H4
 ##### Text H5
 ###### Text H6
 
-Prueba de underline 1 (====)
+Underline test 1 (====)
 =
 
-Prueba de underline 2 (-----)
+Underline test 2 (-----)
 -
-## Formatos
-- Formato *itálica* con  *
-- Formato _itálica_ con  _
-- Formato **bold** con  **
-- Formato __bold__ con  __
-- Formato ~~crossed~~ con  ~~
+## Format
+- Format *italic* with  *
+- Format _italic_ with  _
+- Format **bold** with  **
+- Format __bold__ with  __
+- Format ~~crossed~~ with  ~~
 
-## Tipos de listas
-1. Esto es un item de lista ordenada
-1. Esto es un item de lista ordenada
-1. Esto es un item de lista ordenada
+## Types of lists
+1. This is an ordered list
+1. This is an ordered list
+1. This is an ordered list
 
-- Esto es un item de lista desordenada
-- Esto es un item de lista desordenada
-- Esto es un item de lista desordenada
+- This is a desordered type of list
+- This is a desordered type of list
+- This is a desordered type of list
 
 ## Links
